@@ -2,7 +2,9 @@
 
 仓库：<https://github.com/zh13662813127-code/newlink-realty-site>
 
-GitHub Pages 已从 `main` 分支根目录发布，并已绑定自定义域名 `newlinkrealty.com.au`。
+GitHub Pages 已从 `main` 分支根目录发布。当前使用 GitHub 默认地址：<https://zh13662813127-code.github.io/newlink-realty-site/>。
+
+如果以后取得 `newlinkrealty.com.au` 的 DNS 权限，再按下面步骤切换自定义域名。
 
 ## GoDaddy DNS 记录
 

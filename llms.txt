@@ -19,11 +19,11 @@
 
 ## Useful pages
 
-- Home: https://www.newlinkrealty.com.au/
-- Residential sale: https://www.newlinkrealty.com.au/residential-sale
-- Rent: https://www.newlinkrealty.com.au/rent
-- Manage with us: https://www.newlinkrealty.com.au/manage
-- Rental appraisal: https://www.newlinkrealty.com.au/rental-appraisal
-- About: https://www.newlinkrealty.com.au/about
-- Services overview: https://www.newlinkrealty.com.au/services
-- Contact: https://www.newlinkrealty.com.au/contact
+- Home: https://zh13662813127-code.github.io/newlink-realty-site/
+- Residential sale: https://zh13662813127-code.github.io/newlink-realty-site/residential-sale
+- Rent: https://zh13662813127-code.github.io/newlink-realty-site/rent
+- Manage with us: https://zh13662813127-code.github.io/newlink-realty-site/manage
+- Rental appraisal: https://zh13662813127-code.github.io/newlink-realty-site/rental-appraisal
+- About: https://zh13662813127-code.github.io/newlink-realty-site/about
+- Services overview: https://zh13662813127-code.github.io/newlink-realty-site/services
+- Contact: https://zh13662813127-code.github.io/newlink-realty-site/contact

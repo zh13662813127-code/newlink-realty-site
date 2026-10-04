@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.newlinkrealty.com.au/sitemap.xml
+Sitemap: https://zh13662813127-code.github.io/newlink-realty-site/sitemap.xml
