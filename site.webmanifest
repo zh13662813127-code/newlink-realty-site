@@ -1,0 +1,9 @@
+{
+  "name": "Newlink Realty",
+  "short_name": "Newlink",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f2eb",
+  "theme_color": "#14251f",
+  "description": "Property advice with a clearer point of view."
+}
